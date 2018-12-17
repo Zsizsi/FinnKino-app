@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Schedule>
+		<PubDate>2018-12-06T00:00:00+02:00</PubDate>
+		<Shows>
+			<Show>
+				<ID>1258290</ID>
+				<dtAccounting>2018-12-06T00:00:00</dtAccounting>
+				<dttmShowStart>2018-12-06T10:30:00</dttmShowStart>
+				<dttmShowStartUTC>2018-12-06T08:30:00Z</dttmShowStartUTC>
+				<dttmShowEnd>2018-12-06T11:24:00</dttmShowEnd>
+				<dttmShowEndUTC>2018-12-06T09:24:00Z</dttmShowEndUTC>
+				<ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+				<ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+				<ShowSalesEndTime>2018-12-06T10:15:00</ShowSalesEndTime>
+				<ShowSalesEndTimeUTC>2018-12-06T08:15:00Z</ShowSalesEndTimeUTC>
+				<ShowReservationStartTime>2000-01-01T00:00:00</ShowReservationStartTime>
+				<ShowReservationStartTimeUTC>2000-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+				<ShowReservationEndTime>2018-12-06T09:00:00</ShowReservationEndTime>
+				<ShowReservationEndTimeUTC>2018-12-06T07:00:00Z</ShowReservationEndTimeUTC>
+				<EventID>302916</EventID>
+				<Title>Ryhmä Hau: Superpennut (dub)</Title>
+				<OriginalTitle>PAW Patrol: Mighty Pups (dub)</OriginalTitle>
+				<ProductionYear>2018</ProductionYear>
+				<LengthInMinutes>44</LengthInMinutes>
+				<dtLocalRelease>2018-12-02T00:00:00</dtLocalRelease>
+				<Rating>S</Rating>
+				<RatingLabel>S</RatingLabel>
+				<RatingImageUrl>https://media.finnkino.fi/images/rating_large_S.png</RatingImageUrl>
+				<EventType>LiveEvent</EventType>
+				<Genres>Animaatio, Event cinema</Genres>
+				<TheatreID>1038</TheatreID>
+				<TheatreAuditriumID>1279</TheatreAuditriumID>
+				<Theatre>Tennispalatsi, Helsinki</Theatre>
+				<TheatreAuditorium>sali 6</TheatreAuditorium>
+				<TheatreAndAuditorium>Tennispalatsi, Helsinki, sali 6</TheatreAndAuditorium>
+				<PresentationMethodAndLanguage>2D, suomi</PresentationMethodAndLanguage>
+				<PresentationMethod>2D</PresentationMethod>
+				<EventSeries></EventSeries>
+				<ShowURL>http://www.finnkino.fi/websales/show/1258290/</ShowURL>
+				<EventURL>http://www.finnkino.fi/event/302916/title/ryhm%C3%A4_hau_superpennut/</EventURL>
+				<SpokenLanguage>
+					<Name>suomi</Name>
+					<NameInLanguage></NameInLanguage>
+					<ISOTwoLetterCode>FI</ISOTwoLetterCode>
+				</SpokenLanguage>
+				<Images>
+					<EventSmallImagePortrait>http://media.finnkino.fi/1012/Event_12305/portrait_small/Paw_patrol_MightyPups_1080u.jpg</EventSmallImagePortrait>
+					<EventMediumImagePortrait>http://media.finnkino.fi/1012/Event_12305/portrait_medium/Paw_patrol_MightyPups_1080u.jpg</EventMediumImagePortrait>
+					<EventLargeImagePortrait>http://media.finnkino.fi/1012/Event_12305/portrait_small/Paw_patrol_MightyPups_1080u.jpg</EventLargeImagePortrait>
+					<EventSmallImageLandscape>http://media.finnkino.fi/1012/Event_12305/landscape_small/Paw_patrol_444_white.jpg</EventSmallImageLandscape>
+					<EventLargeImageLandscape>http://media.finnkino.fi/1012/Event_12305/landscape_large/Paw_patrol_670_dark.jpg</EventLargeImageLandscape>
+				</Images>
+				<ContentDescriptors></ContentDescriptors>
+			</Show>
+			<Show>
+				<ID>1258283</ID>
+				<dtAccounting>2018-12-06T00:00:00</dtAccounting>
+				<dttmShowStart>2018-12-06T10:30:00</dttmShowStart>
+				<dttmShowStartUTC>2018-12-06T08:30:00Z</dttmShowStartUTC>
+				<dttmShowEnd>2018-12-06T11:24:00</dttmShowEnd>
+				<dttmShowEndUTC>2018-12-06T09:24:00Z</dttmShowEndUTC>
+				<ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+				<ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+				<ShowSalesEndTime>2018-12-06T10:15:00</ShowSalesEndTime>
+				<ShowSalesEndTimeUTC>2018-12-06T08:15:00Z</ShowSalesEndTimeUTC>
+				<ShowReservationStartTime>2000-01-01T00:00:00</ShowReservationStartTime>
+				<ShowReservationStartTimeUTC>2000-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+				<ShowReservationEndTime>2018-12-06T09:00:00</ShowReservationEndTime>
+				<ShowReservationEndTimeUTC>2018-12-06T07:00:00Z</ShowReservationEndTimeUTC>
+				<EventID>302916</EventID>
+				<Title>Ryhmä Hau: Superpennut (dub)</Title>
+				<OriginalTitle>PAW Patrol: Mighty Pups (dub)</OriginalTitle>
+				<ProductionYear>2018</ProductionYear>
+				<LengthInMinutes>44</LengthInMinutes>
+				<dtLocalRelease>2018-12-02T00:00:00</dtLocalRelease>
+				<Rating>S</Rating>
+				<RatingLabel>S</RatingLabel>
+				<RatingImageUrl>https://media.finnkino.fi/images/rating_large_S.png</RatingImageUrl>
+				<EventType>LiveEvent</EventType>
+				<Genres>Animaatio, Event cinema</Genres>
+				<TheatreID>1056</TheatreID>
+				<TheatreAuditriumID>1313</TheatreAuditriumID>
+				<Theatre>Omena, Espoo</Theatre>
+				<TheatreAuditorium>sali 3</TheatreAuditorium>
+				<TheatreAndAuditorium>Omena, Espoo, sali 3</TheatreAndAuditorium>
+				<PresentationMethodAndLanguage>2D, suomi</PresentationMethodAndLanguage>
+				<PresentationMethod>2D</PresentationMethod>
+				<EventSeries></EventSeries>
+				<ShowURL>http://www.finnkino.fi/websales/show/1258283/</ShowURL>
+				<EventURL>http://www.finnkino.fi/event/302916/title/ryhm%C3%A4_hau_superpennut/</EventURL>
+				<SpokenLanguage>
+					<Name>suomi</Name>
+					<NameInLanguage></NameInLanguage>
+					<ISOTwoLetterCode>FI</ISOTwoLetterCode>
+				</SpokenLanguage>
+				<Images>
+					<EventSmallImagePortrait>http://media.finnkino.fi/1012/Event_12305/portrait_small/Paw_patrol_MightyPups_1080u.jpg</EventSmallImagePortrait>
+					<EventMediumImagePortrait>http://media.finnkino.fi/1012/Event_12305/portrait_medium/Paw_patrol_MightyPups_1080u.jpg</EventMediumImagePortrait>
+					<EventLargeImagePortrait>http://media.finnkino.fi/1012/Event_12305/portrait_small/Paw_patrol_MightyPups_1080u.jpg</EventLargeImagePortrait>
+					<EventSmallImageLandscape>http://media.finnkino.fi/1012/Event_12305/landscape_small/Paw_patrol_444_white.jpg</EventSmallImageLandscape>
+					<EventLargeImageLandscape>http://media.finnkino.fi/1012/Event_12305/landscape_large/Paw_patrol_670_dark.jpg</EventLargeImageLandscape>
+				</Images>
+				<ContentDescriptors></ContentDescriptors>
+			</Show>
+        </Shows>
+		<_
+			xmlns:xsd>http://www.w3.org/2001/XMLSchema
+		</_
+		xmlns:xsd>
+		<_
+			xmlns:xsi>http://www.w3.org/2001/XMLSchema-instance
+		</_
+		xmlns:xsi>
+	</Schedule>
+</root>
